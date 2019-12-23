@@ -1,0 +1,5 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est FA1A-DB8F
+
+ R‚pertoire de C:\Users\utilisateur\Formation\formation-git
+
